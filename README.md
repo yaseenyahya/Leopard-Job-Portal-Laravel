@@ -21,7 +21,7 @@ To set up the Job Portal, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/job-portal.git
+    git clone https://github.com/yaseenyahya021/Leopard-Job-Portal-Laravel.git
     ```
 
 2. Navigate to the project directory:
